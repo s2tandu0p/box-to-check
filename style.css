@@ -5,6 +5,7 @@
   border: 2px solid green;
   box-shadow: 2px 0px 10px black;
   display: flex;
+  justify-content: center;
 }
 
 img {
