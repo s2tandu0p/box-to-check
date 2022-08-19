@@ -83,6 +83,7 @@ img {
 
   h1{
     font-size: 25px;
+    color: red;
   }
 
 }
@@ -114,6 +115,8 @@ img {
 
     h1 {
       font-size: 25px;
+      color: red;
+      
     }
 }
 
